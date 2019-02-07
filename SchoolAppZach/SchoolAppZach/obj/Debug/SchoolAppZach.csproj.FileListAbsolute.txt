@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\SchoolAppZach\SchoolAppZach\bin\Debug\SchoolAppZach.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\SchoolAppZach\SchoolAppZach\bin\Debug\SchoolAppZach.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\SchoolAppZach\SchoolAppZach\bin\Debug\SchoolAppZach.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\SchoolAppZach\SchoolAppZach\obj\Debug\SchoolAppZach.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\SchoolAppZach\SchoolAppZach\obj\Debug\SchoolAppZach.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\SchoolAppZach\SchoolAppZach\obj\Debug\SchoolAppZach.frmSchoolApp.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\SchoolAppZach\SchoolAppZach\obj\Debug\SchoolAppZach.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\SchoolAppZach\SchoolAppZach\obj\Debug\SchoolAppZach.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\SchoolAppZach\SchoolAppZach\obj\Debug\SchoolAppZach.pdb

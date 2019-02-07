@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\AddressProgramZacharyK\AddressProgramZacharyK\bin\Debug\AddressProgramZacharyK.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\AddressProgramZacharyK\AddressProgramZacharyK\bin\Debug\AddressProgramZacharyK.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\AddressProgramZacharyK\AddressProgramZacharyK\bin\Debug\AddressProgramZacharyK.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\AddressProgramZacharyK\AddressProgramZacharyK\obj\Debug\AddressProgramZacharyK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\AddressProgramZacharyK\AddressProgramZacharyK\obj\Debug\AddressProgramZacharyK.AddressProgram.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\AddressProgramZacharyK\AddressProgramZacharyK\obj\Debug\AddressProgramZacharyK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\AddressProgramZacharyK\AddressProgramZacharyK\obj\Debug\AddressProgramZacharyK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\AddressProgramZacharyK\AddressProgramZacharyK\obj\Debug\AddressProgramZacharyK.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\AddressProgramZacharyK\AddressProgramZacharyK\obj\Debug\AddressProgramZacharyK.pdb

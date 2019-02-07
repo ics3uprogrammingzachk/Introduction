@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
