@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Zachary Kranabetter
+ * Created on: Feb. 7, 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #4 - School App with Menu
+ * This program displays Hello World but with an exit menu
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

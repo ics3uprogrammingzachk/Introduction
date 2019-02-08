@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\HelloWorldIntZachK\HelloWorldIntZachK\bin\Debug\HelloWorldIntZachK.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\HelloWorldIntZachK\HelloWorldIntZachK\bin\Debug\HelloWorldIntZachK.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\HelloWorldIntZachK\HelloWorldIntZachK\bin\Debug\HelloWorldIntZachK.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\HelloWorldIntZachK\HelloWorldIntZachK\obj\Debug\HelloWorldIntZachK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\HelloWorldIntZachK\HelloWorldIntZachK\obj\Debug\HelloWorldIntZachK.frmHelloWorldInt.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\HelloWorldIntZachK\HelloWorldIntZachK\obj\Debug\HelloWorldIntZachK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\HelloWorldIntZachK\HelloWorldIntZachK\obj\Debug\HelloWorldIntZachK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\HelloWorldIntZachK\HelloWorldIntZachK\obj\Debug\HelloWorldIntZachK.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Introduction\HelloWorldIntZachK\HelloWorldIntZachK\obj\Debug\HelloWorldIntZachK.pdb
