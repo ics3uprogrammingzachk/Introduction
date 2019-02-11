@@ -31,12 +31,12 @@ namespace HelloWorldIntZachK
 
         private void grbLanguages_Enter(object sender, EventArgs e)
         {
-
+            lblGreeting.Text = "Olá Mundo!";
         }
 
         private void radPortuguese_CheckedChanged(object sender, EventArgs e)
         {
-
+            lblGreeting.Text = "Salve Orbis Terrarum!";
         }
 
         private void radLatin_CheckedChanged_1(object sender, EventArgs e)
